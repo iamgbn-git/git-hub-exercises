@@ -1,0 +1,5 @@
+values = input("Enter number: ")
+l = values.split(" , ")
+t = tuple(l)
+print(l)
+print(t)
